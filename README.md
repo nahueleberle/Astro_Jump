@@ -40,3 +40,14 @@ The player has an oxygen bar that drains constantly. When it reaches zero, the a
 ## State machine
 
 The game uses a state machine to handle navigation between screens: **main menu, game, victory, options, and credits**. Each screen has buttons that trigger the transitions between states.
+
+## How to play
+
+**Windows:** download the latest `.zip` from [Releases](../../releases), extract it and run `AstroJump.exe`.
+
+**From source:**
+
+```
+pip install -r requirements.txt
+python main.py
+```
