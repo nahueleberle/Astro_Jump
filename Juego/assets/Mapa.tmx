@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="44" height="31" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="26">
+<map version="1.10" tiledversion="1.12.2" orientation="orthogonal" renderorder="right-down" width="44" height="31" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="27">
  <tileset firstgid="1" source="Plataforma_Space_Tileset.tsx"/>
  <tileset firstgid="17" source="Pincho_Espacial.tsx"/>
  <tileset firstgid="18" source="Oxygen_Tank.tsx"/>
@@ -8,15 +8,12 @@
  <objectgroup id="2" name="Capa de Objetos 1">
   <object id="4" gid="18" x="160" y="400" width="16" height="32"/>
   <object id="5" gid="18" x="49.3333" y="174.667" width="16" height="32"/>
-  <object id="6" gid="18" x="777.333" y="178.667" width="16" height="32"/>
   <object id="7" gid="18" x="551.333" y="561.333" width="16" height="32"/>
-  <object id="9" gid="18" x="1235.33" y="630.667" width="16" height="32"/>
   <object id="10" gid="18" x="874.667" y="464" width="16" height="32"/>
   <object id="11" gid="18" x="1267.67" y="307.667" width="16" height="32"/>
   <object id="12" gid="18" x="842.666" y="711.333" width="16" height="32"/>
-  <object id="13" gid="18" x="1098.67" y="78.6667" width="16" height="32"/>
-  <object id="14" gid="19" x="353" y="363" width="32" height="64"/>
-  <object id="15" gid="19" x="1265" y="100" width="32" height="64"/>
+  <object id="13" gid="18" x="1098.67" y="89.27" width="16" height="32"/>
+  <object id="15" gid="19" x="1266.18" y="109.425" width="32" height="64"/>
   <object id="16" gid="20" x="28" y="606" width="32" height="32"/>
   <object id="17" gid="20" x="1252" y="410" width="32" height="32"/>
   <object id="18" gid="20" x="610" y="406" width="32" height="32"/>
@@ -25,8 +22,8 @@
   <object id="21" gid="20" x="450" y="426" width="32" height="32"/>
   <object id="22" gid="20" x="414" y="594" width="32" height="32"/>
   <object id="23" gid="18" x="458" y="82" width="16" height="32"/>
-  <object id="24" gid="18" x="776" y="388" width="16" height="32"/>
-  <object id="25" gid="18" x="1066" y="222" width="16" height="32"/>
+  <object id="24" gid="18" x="777.178" y="411.563" width="16" height="32"/>
+  <object id="26" gid="20" x="1248.15" y="634.336" width="32" height="32"/>
  </objectgroup>
  <layer id="1" name="Capa de patrones 1" width="44" height="31">
   <data encoding="csv">
